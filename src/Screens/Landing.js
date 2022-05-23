@@ -20,7 +20,7 @@ export default function LandingScreen() {
     const navigation = useNavigation(); 
     return (
         <View style={styles.container}>
-        <Text style ={{fontSize: 25, fontWeight: "bold"}}>Crucible</Text>
+        <Text style ={{fontSize: 25, fontWeight: "bold"}}>Qrusible</Text>
         {/* <StatusBar style="auto" />  */}
         <View style={styles.inputView}>
         
